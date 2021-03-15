@@ -14,7 +14,7 @@ words=[]
 classes = []
 documents = []
 ignore_words = ['?', '!']
-data_file = open('C:\\Users\\Salah\\Documents\\ECL\\3A\\MSO\\Projet\\Nouveau dossier\\python-project-chatbot-codes\\intents.json').read()
+data_file = open('.\intents.json').read()
 intents = json.loads(data_file)
 
 
