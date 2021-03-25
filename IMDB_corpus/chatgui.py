@@ -4,7 +4,7 @@ lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
 import os
-os.chdir('C:\\Users\\Salah\\Documents\\ECL\\3A\\MSO\\Projet\\Nouveau_dossier\\python_project_chatbot_codes_imdb_movies_1000')
+os.chdir('C:\\Users\\Salah\\Documents\\ECL\\3A\\MSO\\Projet\\Nouveau_dossier\\python_project_chatbot_codes_imdb_movies_1000')  ##Chemin vers le dossier contenant le projet
 
 from keras.models import load_model
 model = load_model('chatbot_model.h5')
