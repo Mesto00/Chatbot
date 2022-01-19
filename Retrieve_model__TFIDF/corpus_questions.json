@@ -1,0 +1,167 @@
+{
+  "intents": [
+    {
+		"intent": "note_spectateurs", 
+		"examples": [
+			"quelle est la note du film ?",
+			"l'évaluation du film ?",
+			"evaluation",
+			"notes",
+			"combien d'étoiles a reçu ce film ?",
+			"etoiles",
+			"nombre d'etoiles",
+			"quelle est la recommandation ?",
+			"est-ce que les gens recommandent ce film ?",
+			"le film est bon ?",
+			"est-ce que le film vaut le coup ?",
+			"est-ce le meilleur film ?",
+			"bon ou mauvais",
+			"moyenne des notes",
+			"rating",
+			"quelle est la note moyenne ?"]
+    },
+	{
+		"intent": "nombre_spectateurs", 
+		"examples": [
+			"critiques",
+			"gens qui ont recommandé ce film",
+			"combien de personnes ont évalué ce film ?",
+			"nombre de votants",
+			"combien ont recommandé ce film ?",
+			"combien de votes a reçu le film ?",
+			"nombre de recommandations",
+			"beaucoup de votes ?"]
+	},
+	{
+		"intent": "synopsis",
+		"examples": [
+			"décris moi le film",
+			"decris le film",
+			"description",
+			"détails du film",
+			"details",
+			"dis m'en plus sur ce film",
+			"description du film",
+			"de quoi parle le film ?",
+			"quel est le synopsis ?",
+			"histoire racontée",
+			"de quoi parle le film ?",
+			"résumé du film",
+			"resume"]
+	},
+	{
+		"intent": "box_office",
+		"examples": [
+			"nombre d'entrées",
+			"entrées",
+			"entrees",
+			"box office",
+			"revenus du film",
+			"combien a rapporté le film ?",
+			"combien d'entrées au box-office ?",
+			"combien de personnes ont vu ce film au cinéma ?",
+			"le film est-il populaire ?"]
+    },
+    {
+		"intent": "budget",
+		"examples": [
+			"budget",
+			"argent",
+			"budget du film",
+			"combien a coûté le film ?",
+			"coût pour réaliser le film",
+			"combien d'argent a été dépensé ?",
+			"coût du film"]
+    },
+    {
+		"intent": "url",
+		"examples": [
+			"lien vers allociné",
+			"donne moi un lien pour trouver le film",
+			"lien d'une description",
+			"URL du film",
+			"emmène moi voir la bande-annonce",
+			"allociné"]
+	},
+    {
+		"intent": "date",
+		"examples": [
+			"quand est sortie le film",
+			"date de sortie",
+			"date cinéma",
+			"sortie en salles",
+			"a quelle date le film est arrivé au cinéma",
+			"de quand date le film ?",
+			"jour de sortie"]
+	},
+    {
+		"intent": "genre",
+		"examples": [
+			"style",
+			"style du film",
+			"quel est le style du film",
+			"genre",
+			"genre du film",
+			"quel est le genre du film",
+			"type",
+			"type de film",
+			"quel est le type du film"]
+	},
+    {
+		"intent": "duree",
+		"examples": [
+			"duree",
+			"duree du film",
+			"durée",
+			"durée du film",
+			"combien de temps dure le film",
+			"temps",
+			"temps pour regarder le film",
+			"combien d'heures",
+			"combien de minutes",
+			"longueur",
+			"long",
+			"court",
+			"longueur du film"]
+	},
+    {
+		"intent": "realisateur",
+		"examples": [
+			"realisateur",
+			"réalisateur",
+			"qui est le réalisateur ?",
+			"qui a réalisé le film ?",
+			"de qui est le film ?",
+			"cineaste",
+			"quel cinéaste",
+			"filmographie",
+			"a quel filmographie appartient le film",
+			"derrière la caméra"]
+	},
+    {
+		"intent": "acteurs",
+		"examples": [
+			"qui sont les acteurs ?",
+			"qui sont les actrices ?",
+			"acteurs principaux",
+			"actrices principales",
+			"qui sont les interprètes du film",
+			"quels comédiens",
+			"quels artistes jouent dans le film",
+			"qui joue dans le film"]
+	},
+    {
+      "intent": "goodbye",
+      "examples": [
+			"à bientôt",
+			"Bye",
+			"ciao",
+			"Goodbye",
+			"à plus tard",
+			"à la prochaine",
+			"au revoir",
+			"adieu"]
+    }
+	]
+}
+    
